@@ -1,2 +1,1 @@
-# Text Editor Starter Code
-# pwaTextEditor
+# PWA Text Editor (JATE)
