@@ -24,7 +24,15 @@ To run the app successfully, these steps are recommended:
 - Edit text online and offline using Jate!
   
 ## Usage
-This text editor runs in the browser and feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The app can also be installed by clicking 'install' in the deployed app link. This app utilizes the IndexedDB database API to store and retrieve data entered into the text editor.  
+This text editor runs in the browser and feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The app can also be installed by clicking 'install' in the deployed app link. 
+This app utilizes the IndexedDB database API to store and retrieve data entered into the text editor.  
+![IndexedDB functionality](./assets/images/indexedDB.png)
+
+Here we can see the manifest.json being rendered while we use the text editor.
+![ManifestJSON functionality](./assets/images/manifestJson.png)
+
+Here we can see our Service Worker that's been generated using webpack plugins.
+![Service Worker functionality](./assets/images/serviceWorker.png)
 
 ## Demo 
 This is a video demonstrating the functionality of the finished app. 
