@@ -43,6 +43,8 @@ I referenced these articles to help me with the code of this project.
 - [IndexedDB web docs](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
 - [Webpack-strategies chrome docs](https://developer.chrome.com/docs/workbox/modules/workbox-strategies)
 - [PWA-webpack](https://webpack.js.org/guides/progressive-web-application/)
+- [PWA-webpack-plugins](https://www.npmjs.com/package/webpack-plugin-pwa-manifest)
+- [Stale-While-Revalidate](https://www.toptal.com/react-hooks/stale-while-revalidate)
 
 ## License
 This application is covered under the MIT License.
